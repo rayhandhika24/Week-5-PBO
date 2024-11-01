@@ -1,0 +1,8 @@
+com\mycompany\tiketbioskop\Penonton.class
+com\mycompany\tiketbioskop\RegularTicket.class
+com\mycompany\tiketbioskop\VipTicket.class
+com\mycompany\tiketbioskop\Tiket.class
+com\mycompany\tiketbioskop\Bioskop.class
+com\mycompany\tiketbioskop\TiketBioskop.class
+com\mycompany\tiketbioskop\Film.class
+com\mycompany\tiketbioskop\Booking.class
